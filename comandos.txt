@@ -4,3 +4,4 @@
 4-  1.mkdir si/git
 5-  1.cd si/git/
 6-  1.touch ../..//login
+7-  1.rm ../../bbdd/consultas.sql
