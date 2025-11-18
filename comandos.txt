@@ -7,3 +7,4 @@
 7-  1.rm ../../bbdd/consultas.sql
 8-  1.mv ../../prog/index.php ./index2.php
 9-  1.echo "select * from clientes" >> ../../login
+10- 1.cd ../../.. 2.rm -r examenApellido
