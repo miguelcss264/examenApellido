@@ -1,1 +1,2 @@
 1-  1.mkdir examenApellido 2.cd examenApellido 3.mkdir prog si bbdd
+2-  1.cd examenApellido 2.
