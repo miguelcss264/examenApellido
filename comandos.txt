@@ -5,3 +5,4 @@
 5-  1.cd si/git/
 6-  1.touch ../..//login
 7-  1.rm ../../bbdd/consultas.sql
+8-  1.mv ../../prog/index.php ./index2.php
